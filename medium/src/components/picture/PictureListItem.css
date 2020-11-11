@@ -1,0 +1,15 @@
+.pictureItem {
+    display: inline-block;
+    padding: 0 5px;
+}
+.pictureItem .media {
+    height: 140px;
+    object-fit: cover;
+    width: 140px;
+}
+.pictureItem span {
+    display: block;
+}
+.pictureItem label {
+    cursor: pointer;
+}

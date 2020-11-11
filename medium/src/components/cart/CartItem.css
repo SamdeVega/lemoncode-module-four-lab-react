@@ -1,0 +1,24 @@
+.cartItem {
+    display: block;
+    margin-bottom: 10px;
+}
+.cartItem .MuiPaper-root {
+    display: inline-block;
+    width: calc(100% - 64px);
+}
+.cartItem .media {
+    display: inline-block;
+    height: 64px;
+    object-fit: cover;
+    vertical-align: bottom;
+    width: 64px;
+}
+.cartItem .MuiCardContent-root {
+    display: inline-block;
+}
+.cartItem .removeBtn {
+    display: inline-block;
+    height: 64px;
+    margin-top: -54px;
+    width: auto;
+}

@@ -1,0 +1,10 @@
+.cart {
+    display: inline-block;
+    width: 33%;
+}
+.cart .inlineBtn {
+    margin-right: 10px;
+}
+.cart .cartList {
+    padding: 0;
+}

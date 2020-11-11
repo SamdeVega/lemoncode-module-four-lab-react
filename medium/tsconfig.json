@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "allowSyntheticDefaultImports": true,
+        "declaration": false,
+        "esModuleInterop": true,
+        "jsx": "react",
+        "module": "es6",
+        "moduleResolution": "node",
+        "noImplicitAny": false,
+        "noLib": false,
+        "skipLibCheck": true,
+        "sourceMap": true,
+        "suppressImplicitAnyIndexErrors": true,
+        "target": "es6",
+    }
+}
